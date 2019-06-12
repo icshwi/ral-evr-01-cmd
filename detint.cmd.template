@@ -1,0 +1,5 @@
+dbLoadRecords("evr_detector_controls.db", "SYS=$(SYS), EVR=$(EVR), TSEVT=$(SYNC_EVNT_LETTER),SYNC_EVNT=$(SYNC_TRIG_EVT)")
+
+
+
+
